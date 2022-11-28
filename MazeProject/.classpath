@@ -7,6 +7,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/charles.lagreou/Google Drive/Telecom Paris/P1_CYBER701_POO Java/eclipse-workspace/MazeUI"/>
+	<classpathentry kind="lib" path="/Users/charles.lagreou/Google Drive/Telecom Paris/P1_CYBER701_POO Java/TP_DijkstraMaze/MazeUI"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
